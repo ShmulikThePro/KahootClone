@@ -1,0 +1,290 @@
+[
+  {
+    "title": "חידון עברית",
+    "id": "1",
+    "previewImg": "https://georgianjournal.ge/media/_thumb/images/georgianews/2015/September/Discover/anbani.jpg",
+    "description": "אתם לא באמת יודעים לקרוא את זה",
+    "questions": [
+      {
+        "question": "איזו שפה אנחנו מדברים",
+        "answers": [
+          {
+            "answer": "ערבית עם קצת שיפורים",
+            "correct": true
+          },
+          {
+            "answer": "ג'יבריש",
+            "correct": false
+          },
+          {
+            "answer": "יידיש",
+            "correct": false
+          },
+          {
+            "answer": "אנגלית",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "question": "מי המציא את השפה העברית",
+        "answers": [
+          {
+            "answer": "אדם מוזר עם שפם",
+            "correct": true
+          },
+          {
+            "answer": "אני",
+            "correct": false
+          },
+          {
+            "answer": "אֶלְקָנָה בֶּן-יְרֹחָם בֶּן-אֱלִיהוּא, בֶּן-תֹּחוּ בֶן-צוּף--אֶפְרָתִי",
+            "correct": false
+          },
+          {
+            "answer": "רבי נחמן",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "question": "ماذا يعني: صباح الخير، اليوم سأحكي لكم قصة قصيرة: وصلت إلى المدرسة وقلت لنفسي لماذا أذهب إلى المدرسة أصلاً. نظام التدريس في المدارس في دولة إسرائيل وفي العالم أجمع يسبب معاناة كبيرة للطلاب، خاصة بعد أن يتعلم الطلاب مواد مملة لن تفيدهم في الحياة. أثبتت الدراسات أن أكثر من 98٪ من المواد التي يتم تدريسها في المدارس الابتدائية والمدارس المتوسطة والثانوية لن تساعدهم على الإطلاق في الحياة. يقال لنا جميعًا دائمًا أننا بحاجة إلى الدراسة والحصول على أعلى الدرجات الممكنة حتى نتمكن من الحصول على حياة أفضل في المستقبل. ومع ذلك، فإن العكس هو الصحيح: على الرغم من أن الأشخاص الذين أكملوا شهادة الثانوية العامة تمكنوا في النهاية من النجاح في الحياة، إلا أنهم شعروا خلال دراستهم بالحزن الشديد. بالمناسبة لماذا قرأت كل هذا؟",
+        "answers": [
+          {
+            "answer": "בוקר טוב היום אני הולך לספר לכם סיפור קצר: אני הגעתי לבית הספר וחשבתי לעצמי למה אני הולך בכלל לבית ספר. מערכת הלימוד בביתי-הספר במדינת ישראל ובכלל העולם גורמת לסבל רב מצד התלמידים, במיוחד לאחר שהתלמידים לומדים חומר משעמם שלא יעזור להם בחיים. מחקרים הוכיחו כי מעל כ-98% מהחומר שנלמד בבתי הספר היסודיים, חטיבות הביניים ובתי-הספר התיכונים לא יעזור להם כלל בחיים. תמיד אומרים לכולנו שאנחנו צריכים ללמוד ולהשיג ציונים כמה שיותר טובים כדי לקבל חיים טובים יותר בעתיד. אך, ההפך הוא הנכון: למרות שאנשים שהשלימו בגרויות כן הצליחו לבסוף להצליח בחיים, אך בתקופת לימודיים הרגישו עצב עז. דרך אגב למה קראתם את כל זה",
+            "correct": true
+          },
+          {
+            "answer": "1 מיליון",
+            "correct": false
+          },
+          {
+            "answer": "2.5 מיליון",
+            "correct": false
+          },
+          {
+            "answer": "11.7 מיליון",
+            "correct": false
+          }
+        ]
+      }
+    ],
+    "updatedAt": "10/02/2024 09:46:41"
+  },
+  {
+    "title": "חידון הארץ",
+    "id": "2",
+    "previewImg": "https://www.myjewishlearning.com/wp-content/uploads/2009/03/flag-1120x630.jpg",
+    "description": "כנראה החידון הנורמלי היחיד פה",
+    "questions": [
+      {
+        "question": "מתי הוקמה מדינת ישראל?",
+        "answers": [
+          {
+            "answer": "1948",
+            "correct": true
+          },
+          {
+            "answer": "1979",
+            "correct": false
+          },
+          {
+            "answer": "1997",
+            "correct": false
+          },
+          {
+            "answer": "2005",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "question": "מי היה ראש הממשלה הראשון של מדינת ישראל?",
+        "answers": [
+          {
+            "answer": "דוד בן-גוריון",
+            "correct": true
+          },
+          {
+            "answer": "משה דיין",
+            "correct": false
+          },
+          {
+            "answer": "אליעזר בן יהודה",
+            "correct": false
+          },
+          {
+            "answer": "רבי נחמן",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "question": "כמה אנשים חיים בישראל בשנת 2024?",
+        "answers": [
+          {
+            "answer": "9.3 מיליון",
+            "correct": true
+          },
+          {
+            "answer": "1 מיליון",
+            "correct": false
+          },
+          {
+            "answer": "2.5 מיליון",
+            "correct": false
+          },
+          {
+            "answer": "11.7 מיליון",
+            "correct": false
+          }
+        ]
+      }
+    ],
+    "updatedAt": "10/02/2024 09:46:41"
+  },
+  {
+    "title": "חידון ערבית",
+    "id": "3",
+    "previewImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Flag_of_the_Arab_League.svg/1200px-Flag_of_the_Arab_League.svg.png?20120911202959",
+    "description": "من فضلك لا تخبرني أنك استخدمت ترجمة جوجل",
+    "questions": [
+      {
+        "question": "מה זה מוחמד בן לאדן בן מוחמד",
+        "answers": [
+          {
+            "answer": "שם רגיל בערבית",
+            "correct": true
+          },
+          {
+            "answer": "132,213",
+            "correct": false
+          },
+          {
+            "answer": "צבעים",
+            "correct": false
+          },
+          {
+            "answer": "רחוב הזית 4, קומה 4, דירה 17, פתח תקווה, ישראל",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "question": "כמה אנשים מדברים ערבית",
+        "answers": [
+          {
+            "answer": "הרבה",
+            "correct": true
+          },
+          {
+            "answer": "2",
+            "correct": false
+          },
+          {
+            "answer": "יותר מדי",
+            "correct": false
+          },
+          {
+            "answer": "רחוב הזית 4, קומה 4, דירה 17, פתח תקווה, ישראל",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "question": "כמה שיעורי ערבית יש לנו בשבוע",
+        "answers": [
+          {
+            "answer": "2",
+            "correct": true
+          },
+          {
+            "answer": "3",
+            "correct": false
+          },
+          {
+            "answer": "2.5 מיליון",
+            "correct": false
+          },
+          {
+            "answer": "רחוב הזית 4, קומה 4, דירה 17, פתח תקווה, ישראל",
+            "correct": false
+          }
+        ]
+      }
+    ],
+    "updatedAt": "10/02/2024 09:46:41"
+  },
+  {
+    "title": "חידון ממרם",
+    "id": "4",
+    "previewImg": "https://8200academy.com/wp-content/uploads/2022/07/60709293c87439dbae9a624e_18_lm.jpeg",
+    "description": "if coding == 'boring': print('i hate life') ",
+    "questions": [
+      {
+        "question": "מה הקוד הזה ידפיס: print('hello world')",
+        "answers": [
+          {
+            "answer": "hello world",
+            "correct": true
+          },
+          {
+            "answer": "hi",
+            "correct": false
+          },
+          {
+            "answer": "hello",
+            "correct": false
+          },
+          {
+            "answer": "hi world",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "question": "איזה שפה אנחנו לומדים",
+        "answers": [
+          {
+            "answer": "אנגלית",
+            "correct": true
+          },
+          {
+            "answer": "Python",
+            "correct": false
+          },
+          {
+            "answer": "C",
+            "correct": false
+          },
+          {
+            "answer": "Java",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "question": "למה יצרתי את החידון הזה",
+        "answers": [
+          {
+            "answer": "כי ככה",
+            "correct": true
+          },
+          {
+            "answer": "למה לא",
+            "correct": false
+          },
+          {
+            "answer": "כי הייתי משועמם",
+            "correct": false
+          },
+          {
+            "answer": "למה אתם רוצים לדעת",
+            "correct": false
+          }
+        ]
+      }
+    ],
+    "updatedAt": "10/02/2024 09:46:41"
+  }
+]
